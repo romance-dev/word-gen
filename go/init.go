@@ -7,6 +7,7 @@ import (
 	"runtime"
 )
 
+// https://www.listdiff.com/compare-2-lists-difference-tool
 //go:embed nouns.list
 var _nouns []byte
 
@@ -17,7 +18,7 @@ var _verbs []byte
 var _ads []byte
 
 var (
-	nouns      []string // 1666
+	nouns      []string // 6517
 	verbs      []string // 5492
 	adjectives []string // 2397
 )
