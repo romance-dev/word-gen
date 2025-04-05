@@ -1,0 +1,9 @@
+runtime:
+    - runtime.GC
+bufio:
+    - bufio.ScanLines
+    - (&bufio.Scanner{}).Scan
+github.com/bytedance/gopkg/lang/fastrand:
+    - fastrand.Intn
+context:
+    - new(context.Context)
