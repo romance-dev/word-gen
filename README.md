@@ -4,7 +4,7 @@
 
 <p align="right">
   <a href="http://pkg.go.dev/github.com/romance-dev/word-gen/go"><img src="https://pkg.go.dev/badge/github.com/romance-dev/word-gen/go" /></a>
-  <a href="https://goreportcard.com/report/github.com/romance-dev/word-gen/go"><img src="https://goreportcard.com/badge/romance-dev/word-gen/go" /></a>
+  <a href="https://goreportcard.com/report/github.com/romance-dev/word-gen/go"><img src="https://goreportcard.com/badge/github.com/romance-dev/word-gen/go" /></a>
 </p>
 
 # WORD-GEN
